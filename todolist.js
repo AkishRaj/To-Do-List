@@ -27,3 +27,4 @@ function addTask() {
   document.getElementById('taskList').appendChild(li);
   input.value = '';
 }
+//this is our js code for the to-do-list
